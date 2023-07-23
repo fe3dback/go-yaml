@@ -4,7 +4,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/goccy/go-yaml/token"
+	"github.com/fe3dback/go-yaml/token"
 	"golang.org/x/xerrors"
 )
 

@@ -10,10 +10,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/goccy/go-yaml/parser"
+	"github.com/fe3dback/go-yaml/parser"
 
-	"github.com/goccy/go-yaml"
-	"github.com/goccy/go-yaml/ast"
+	"github.com/fe3dback/go-yaml"
+	"github.com/fe3dback/go-yaml/ast"
 )
 
 var zero = 0

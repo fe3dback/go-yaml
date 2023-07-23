@@ -12,11 +12,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/goccy/go-yaml/ast"
-	"github.com/goccy/go-yaml/internal/errors"
-	"github.com/goccy/go-yaml/parser"
-	"github.com/goccy/go-yaml/printer"
-	"github.com/goccy/go-yaml/token"
+	"github.com/fe3dback/go-yaml/ast"
+	"github.com/fe3dback/go-yaml/internal/errors"
+	"github.com/fe3dback/go-yaml/parser"
+	"github.com/fe3dback/go-yaml/printer"
+	"github.com/fe3dback/go-yaml/token"
 	"golang.org/x/xerrors"
 )
 
